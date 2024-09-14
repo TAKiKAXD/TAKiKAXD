@@ -18,7 +18,6 @@ I'm a passionate developer focused on creating innovative projects and expanding
 - **Languages:** HTML, CSS, JavaScript, Python
 - **Frameworks:** React, Node.js
 - **Tools:** Git, VSCode, Figma, Webpack
-- **Game Development:** Game logic, rendering, interactive elements
 - **Engines:** GameMaker, Unity, Unreal Engine
 
 ## 📊 GitHub Stats
@@ -27,9 +26,9 @@ I'm a passionate developer focused on creating innovative projects and expanding
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAKiKAXD&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔗 Let's Connect!
+## 🔗 Links!
 
-- [GitHub](https://github.com/TAKiKAXD)
+- [Twitter](https://x.com/TAKiKAXD)
 - [Discord](https://discord.gg/kQ4yVYQD6P)
 - [Ko-fi](https://ko-fi.com/TAKiKAXD) - Support me!
 - Email: takikaxdd@gmail.com
