@@ -7,15 +7,12 @@ I'm a passionate developer focused on creating innovative projects and expanding
 ## 🚀 About Me
 
 - 💻 I enjoy working on HTML, CSS, JavaScript, and creating interactive web apps and games.
-- 🎮 I’m currently developing an arcade-style game using HTML and JavaScript.
 - 🎮 I have experience working with **GameMaker**, **Unity**, and **Unreal Engine**.
 - 🌱 Always learning: diving deeper into **game development** and **web technologies**.
 
-
-
 ## 🛠 Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python
+- **Languages:** HTML, CSS, JavaScript, Python, Ruby
 - **Frameworks:** React, Node.js
 - **Tools:** Git, VSCode, Figma, Webpack
 - **Engines:** GameMaker, Unity, Unreal Engine
@@ -26,16 +23,17 @@ I'm a passionate developer focused on creating innovative projects and expanding
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAKiKAXD&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## ⚙️ Current Projects
+
+- **Homebase Pocket Emptier:** A creative slot machine game with features like auto-spin, storm mode, and in-game currency management.
+- **To-Do List Application:** A Ruby application with a Tk-based GUI to manage tasks. Tasks are saved in a JSON file and can be added or deleted from the list.
+
 ## 🔗 Links!
 
 - [Twitter](https://x.com/TAKiKAXD)
 - [Discord](https://discord.gg/kQ4yVYQD6P)
 - [Ko-fi](https://ko-fi.com/TAKiKAXD) - Support me!
 - Email: takikaxdd@gmail.com
-
-## ⚙️ Current Projects
-
-- **Homebase Pocket Emptier:** A creative slot machine game with features like auto-spin, storm mode, and in-game currency management.
 
 ## 🤝 Contributions
 
