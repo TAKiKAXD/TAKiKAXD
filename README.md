@@ -27,6 +27,7 @@ I'm a passionate developer focused on creating innovative projects and expanding
 
 - **Homebase Pocket Emptier:** A creative slot machine game with features like auto-spin, storm mode, and in-game currency management.
 - **To-Do List Application:** A Ruby application with a Tk-based GUI to manage tasks. Tasks are saved in a JSON file and can be added or deleted from the list.
+- **Homebase Text Adventure:** A text-based adventure game using Ruby and Tk, featuring room-specific navigation and button-based action selection.
 
 ## 🔗 Links!
 
