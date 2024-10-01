@@ -19,13 +19,13 @@ I'm a passionate developer focused on creating innovative projects and expanding
 
 ## ⚙️ Current Projects
 
-### DailyGifts 🎁
-### Take Care Of A MedKit 🐾
-### Find My MedKit 🩹
-### Trick or Treat 🎃
-### Homebase Pocket Emptier 🎰
-### Hunt The Husks 🔫
-### Homebase Text Adventure 🧭
+### DailyGifts - Done 
+### Take Care Of A MedKit - Closed Beta
+### Find My MedKit - Done
+### Trick or Treat - Closed Beta
+### Homebase Pocket Emptier - Open Alpha
+### Hunt The Husks - Closed Beta
+### Homebase Text Adventure Open Beta
 
 ## 📊 GitHub Stats
 
