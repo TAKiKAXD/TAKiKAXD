@@ -21,10 +21,10 @@ I'm a passionate developer focused on creating innovative projects and expanding
 
 ### DailyGifts 🎁
 ### Take Care Of A MedKit 🐾
-### Find My MedKit 🐾
+### Find My MedKit 🩹
 ### Trick or Treat 🎃
 ### Homebase Pocket Emptier 🎰
-### To-Do List Application 📝
+### Hunt The Husks 🔫
 ### Homebase Text Adventure 🧭
 
 ## 📊 GitHub Stats
