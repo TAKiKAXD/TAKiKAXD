@@ -17,21 +17,26 @@ I'm a passionate developer focused on creating innovative projects and expanding
 - **Tools:** Git, VSCode, Figma, Webpack
 - **Engines:** GameMaker, Unity, Unreal Engine
 
+## ⚙️ Current Projects
+
+### DailyGifts 🎁
+### Take Care Of A MedKit 🐾
+### Find My MedKit 🐾
+### Trick or Treat 🎃
+### Homebase Pocket Emptier 🎰
+### To-Do List Application 📝
+### Homebase Text Adventure 🧭
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAKiKAXD&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAKiKAXD&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## ⚙️ Current Projects
-
-- **Homebase Pocket Emptier:** A creative slot machine game with features like auto-spin, storm mode, and in-game currency management.
-- **To-Do List Application:** A Ruby application with a Tk-based GUI to manage tasks. Tasks are saved in a JSON file and can be added or deleted from the list.
-- **Homebase Text Adventure:** A text-based adventure game using Ruby and Tk, featuring room-specific navigation and button-based action selection.
-
 ## 🔗 Links!
 
-- [Twitter](https://x.com/TAKiKAXD)
+- [Website](https://takikaxd.github.io/site/)
+- [Twitter](https://x.com/TAKiKAXD) 
 - [Discord](https://discord.gg/kQ4yVYQD6P)
 - [Ko-fi](https://ko-fi.com/TAKiKAXD) - Support me!
 - Email: takikaxdd@gmail.com
